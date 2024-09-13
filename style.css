@@ -1,0 +1,12 @@
+p {
+    color: #39FF14;
+  font-size: 48px;
+  font-family: Arial, sans-serif;
+  text-shadow: 0 0 10px #39FF14, 
+               0 0 20px #39FF14, 
+               0 0 30px #39FF14, 
+               0 0 40px #39FF14, 
+               0 0 50px #39FF14, 
+               0 0 60px #39FF14, 
+               0 0 70px #39FF14;
+}
