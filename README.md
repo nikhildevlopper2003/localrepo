@@ -1,3 +1,4 @@
 This is my local repo.
 <br>
-Don't look throug it.
+Don't look through it.
+This is a new feature.
