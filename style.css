@@ -6,7 +6,10 @@ p {
                0 0 20px #39FF14, 
                0 0 30px #39FF14, 
                0 0 40px #39FF14, 
-               0 0 50px #39FF14, 
+               0 0 50px #b5e6ad, 
                0 0 60px #39FF14, 
                0 0 70px #39FF14;
+}
+body{
+    background-color: #cce0c8;
 }
